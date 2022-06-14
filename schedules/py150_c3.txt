@@ -1,0 +1,4 @@
+0,None,0
+2500,Different,1
+5000,None,0
+7500,Different,1

@@ -1,0 +1,5 @@
+0,None,0
+2000,elastic_transform,2,0.2
+4000,elastic_transform,2,0.4
+6000,elastic_transform,2,0.6
+8000,elastic_transform,2,0.8

@@ -1,0 +1,5 @@
+0,None,0
+2000,contrast,2,0.2
+4000,contrast,2,0.4
+6000,contrast,2,0.6
+8000,contrast,2,0.8

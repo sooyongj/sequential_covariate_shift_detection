@@ -1,0 +1,4 @@
+0,None,0
+2500,gaussian_noise,4
+5000,None,0
+7500,gaussian_noise,4

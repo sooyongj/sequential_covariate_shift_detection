@@ -1,0 +1,5 @@
+0,None,0
+1200,Different,1,0.4
+2400,Different,1,0.8
+3600,Different,1,0.4
+4800,None,0
