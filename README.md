@@ -1,4 +1,4 @@
-# Sequnetial Covariate Shift Detection
+# Sequential Covariate Shift Detection
 
 ## Description
 This repository is for the implementation of our paper, [Sequential Covariate Shift Detection Using Two Sample-Tests (ICML 2022)](https://proceedings.mlr.press/v162/jang22a/jang22a.pdf).
